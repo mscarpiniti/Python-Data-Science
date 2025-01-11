@@ -8,9 +8,8 @@ Python is the most useful and powerful programming language oriented to data sci
 1. Introduction to Python.
 2. Basics of Python programming and Python data structures.
 3. Python programming fundamentals.
-4. Object-oriented programming.
-5. Main scientific libraries.
-6. Working with data.
-7. Data manipulation and transformation.
+4. Main scientific libraries.
+5. Data manipulation.
+6. Data preparation and transformation.
+7. Specific topics
 
-Detailed contents.
