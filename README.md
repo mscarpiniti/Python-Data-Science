@@ -5,11 +5,11 @@ Python is the most useful and powerful programming language oriented to data sci
 
 ## Syllabus
 
-1. Introduction to Python.
-2. Basics of Python programming and Python data structures.
-3. Python programming fundamentals.
-4. Main scientific libraries.
-5. Data manipulation.
-6. Data preparation and transformation.
-7. Specific topics
+1. Course overview
+2. Introduction to Python.
+3. Basics of Python programming and Python data structures.
+4. Python programming fundamentals.
+5. Main scientific libraries.
+6. Data manipulation.
+7. Data preparation and transformation.
 
